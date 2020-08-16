@@ -11,7 +11,7 @@ Employee Service
 SenderServiceController
  - send/message/{messageContent}
  
- Authentication Service( not works : my computer frozen, cant finished)
+ Authentication Service( not works, cant finished)
  
  How it works
  --
